@@ -1,0 +1,7 @@
+CREATE TABLE crud (
+    id INT(6) AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    data_nascimento VARCHAR(255) NOT NULL,
+    peso VARCHAR(255) NOT NULL,
+    altura VARCHAR(255) NOT NULL
+)
